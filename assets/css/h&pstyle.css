@@ -241,8 +241,8 @@
 }
 
 .card1-img{
-    background-image: url("../images/women1.webp");
-    background-size: cover;
+    background-image: url("../images/healthcare1.jpg");
+    background-size: contain;
     margin-left: 20px;
     width: 200px;
     height: 220px;
@@ -268,7 +268,6 @@
 }
 
 .rating{
-    margin-top: 10px;
     margin-left: 10px;
     font-size: 0.8rem;
 }
@@ -288,9 +287,8 @@
 }
 
 .card2-img{
-    background-image: url("../images/men1.webp");
-    background-size: cover;
-    background-position: center;
+    background-image: url("../images/healthcare2.jpg");
+    background-size: contain;
     margin-left: 20px;
     width: 200px;
     height: 220px;
@@ -305,7 +303,7 @@
 }
 
 .card3-img{
-    background-image: url("../images/women2.webp");
+    background-image: url("../images/healthcare3.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -322,7 +320,7 @@
 }
 
 .card4-img{
-    background-image: url("../images/men2.webp");
+    background-image: url("../images/healthcare4.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 25px;
@@ -339,7 +337,7 @@
 }
 
 .card5-img{
-    background-image: url("../images/women3.webp");
+    background-image: url("../images/healthcare5.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -356,7 +354,7 @@
 }
 
 .card6-img{
-    background-image: url("../images/men4.webp");
+    background-image: url("../images/healthcare6.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -373,7 +371,7 @@
 }
 
 .card7-img{
-    background-image: url("../images/women4.webp");
+    background-image: url("../images/healthcare7.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -390,7 +388,7 @@
 }
 
 .card8-img{
-    background-image: url("../images/men5.webp");
+    background-image: url("../images/healthcare8.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -407,10 +405,10 @@
 }
 
 .card9-img{
-    background-image: url("../images/women5.webp");
+    background-image: url("../images/healthcare9.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -424,7 +422,7 @@
 }
 
 .card10-img{
-    background-image: url("../images/men3.webp");
+    background-image: url("../images/healthcare10.webp");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -441,7 +439,7 @@
 }
 
 .card11-img{
-    background-image: url("../images/women6.webp");
+    background-image: url("../images/healthcare11.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -458,7 +456,7 @@
 }
 
 .card12-img{
-    background-image: url("../images/men6.webp");
+    background-image: url("../images/healthcare12.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -475,7 +473,7 @@
 }
 
 .card13-img{
-    background-image: url("../images/women7.webp");
+    background-image: url("../images/healthcare13.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -492,7 +490,7 @@
 }
 
 .card14-img{
-    background-image: url("../images/men7.webp");
+    background-image: url("../images/healthcare14.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -509,7 +507,7 @@
 }
 
 .card15-img{
-    background-image: url("../images/women8.webp");
+    background-image: url("../images/healthcare15.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -526,10 +524,11 @@
 }
 
 .card16-img{
-    background-image: url("../images/men8.webp");
+    background-image: url("../images/healthcare16.jpg");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -543,7 +542,7 @@
 }
 
 .card17-img{
-    background-image: url("../images/women9.webp");
+    background-image: url("../images/healthcare17.webp");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -560,7 +559,7 @@
 }
 
 .card18-img{
-    background-image: url("../images/men9.webp");
+    background-image: url("../images/healthcare18.webp");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -577,7 +576,7 @@
 }
 
 .card19-img{
-    background-image: url("../images/women10.webp");
+    background-image: url("../images/healthcare19.webp");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -594,7 +593,7 @@
 }
 
 .card20-img{
-    background-image: url("../images/men10.webp");
+    background-image: url("../images/healthcare20.webp");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -611,173 +610,11 @@
 }
 
 .card21-img{
-    background-image: url("../images/sobuj3.webp");
+    background-image: url("../images/babli2.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
-    width: 200px;
-    height: 220px;
-}
-
-.card22{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card22-img{
-    background-image: url("../images/sobuj4.webp");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card23{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card23-img{
-    background-image: url("../images/megha3.webp");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card24{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card24-img{
-    background-image: url("../images/bokro1.webp");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card25{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card25-img{
-    background-image: url("../images/debu1.webp");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card26{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card26-img{
-    background-image: url("../images/Rishi1.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card27{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card27-img{
-    background-image: url("../images/Rishi2.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card28{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card28-img{
-    background-image: url("../images/Rishi3.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card29{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card29-img{
-    background-image: url("../images/Rishi4.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card30{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card30-img{
-    background-image: url("../images/Rishi5.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 0px;
     width: 200px;
     height: 220px;
 }
