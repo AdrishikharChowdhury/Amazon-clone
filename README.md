@@ -35,7 +35,11 @@ This project is a **static clone** of the Amazon website created using **HTML** 
 
 1. Clone this repository:
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/your-repository/amazon-clone.git
+=======
+   git clone https://github.com/AdrishikharChowdhury/amazon-clone.git
+>>>>>>> aae84a99c65ed33f041c24038de901c5ba91ec5e
    ```
 2. Open the `index.html` file in any browser to explore the homepage.
 3. Navigate to the **Clothes** or **Health & Personal Care** pages for category-specific content.
