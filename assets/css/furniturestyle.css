@@ -241,8 +241,10 @@
 }
 
 .card1-img{
-    background-image: url("../images/women1.webp");
-    background-size: cover;
+    background-image: url("../images/furniture1.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
     margin-left: 20px;
     width: 200px;
     height: 220px;
@@ -268,7 +270,6 @@
 }
 
 .rating{
-    margin-top: 10px;
     margin-left: 10px;
     font-size: 0.8rem;
 }
@@ -288,9 +289,10 @@
 }
 
 .card2-img{
-    background-image: url("../images/men1.webp");
-    background-size: cover;
+    background-image: url("../images/furniture2.jpg");
+    background-size: contain;
     background-position: center;
+    background-repeat: no-repeat;
     margin-left: 20px;
     width: 200px;
     height: 220px;
@@ -305,10 +307,10 @@
 }
 
 .card3-img{
-    background-image: url("../images/women2.webp");
+    background-image: url("../images/furniture3.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -322,7 +324,7 @@
 }
 
 .card4-img{
-    background-image: url("../images/men2.webp");
+    background-image: url("../images/furniture4.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 25px;
@@ -339,10 +341,10 @@
 }
 
 .card5-img{
-    background-image: url("../images/women3.webp");
+    background-image: url("../images/furniture5.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 5px;
     width: 200px;
     height: 220px;
 }
@@ -356,7 +358,7 @@
 }
 
 .card6-img{
-    background-image: url("../images/men4.webp");
+    background-image: url("../images/furniture6.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -373,7 +375,7 @@
 }
 
 .card7-img{
-    background-image: url("../images/women4.webp");
+    background-image: url("../images/furniture7.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -390,8 +392,9 @@
 }
 
 .card8-img{
-    background-image: url("../images/men5.webp");
+    background-image: url("../images/furniture8.jpg");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
     margin-left: 45px;
     width: 200px;
@@ -407,10 +410,10 @@
 }
 
 .card9-img{
-    background-image: url("../images/women5.webp");
+    background-image: url("../images/furniture9.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -424,10 +427,11 @@
 }
 
 .card10-img{
-    background-image: url("../images/men3.webp");
+    background-image: url("../images/furniture10.jpg");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -441,10 +445,11 @@
 }
 
 .card11-img{
-    background-image: url("../images/women6.webp");
+    background-image: url("../images/furniture11.jpg");
+    background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -458,10 +463,10 @@
 }
 
 .card12-img{
-    background-image: url("../images/men6.webp");
+    background-image: url("../images/furniture12.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -475,10 +480,11 @@
 }
 
 .card13-img{
-    background-image: url("../images/women7.webp");
+    background-image: url("../images/furniture13.jpg");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -492,7 +498,7 @@
 }
 
 .card14-img{
-    background-image: url("../images/men7.webp");
+    background-image: url("../images/furniture14.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -509,7 +515,7 @@
 }
 
 .card15-img{
-    background-image: url("../images/women8.webp");
+    background-image: url("../images/furniture15.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -526,10 +532,11 @@
 }
 
 .card16-img{
-    background-image: url("../images/men8.webp");
+    background-image: url("../images/furniture16.jpg");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -543,7 +550,7 @@
 }
 
 .card17-img{
-    background-image: url("../images/women9.webp");
+    background-image: url("../images/furniture17.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -560,7 +567,7 @@
 }
 
 .card18-img{
-    background-image: url("../images/men9.webp");
+    background-image: url("../images/furniture18.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -577,7 +584,7 @@
 }
 
 .card19-img{
-    background-image: url("../images/women10.webp");
+    background-image: url("../images/furniture19.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -594,10 +601,11 @@
 }
 
 .card20-img{
-    background-image: url("../images/men10.webp");
+    background-image: url("../images/furniture20.jpg");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 10px;
     width: 200px;
     height: 220px;
 }
@@ -611,11 +619,11 @@
 }
 
 .card21-img{
-    background-image: url("../images/sobuj3.webp");
+    background-image: url("../images/Rishi7.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -629,11 +637,11 @@
 }
 
 .card22-img{
-    background-image: url("../images/sobuj4.webp");
+    background-image: url("../images/Rishi11.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -647,11 +655,11 @@
 }
 
 .card23-img{
-    background-image: url("../images/megha3.webp");
+    background-image: url("../images/Rishi12.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -665,11 +673,11 @@
 }
 
 .card24-img{
-    background-image: url("../images/bokro1.webp");
+    background-image: url("../images/Rishi13.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -683,11 +691,11 @@
 }
 
 .card25-img{
-    background-image: url("../images/debu1.webp");
+    background-image: url("../images/Rishi14.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -701,11 +709,11 @@
 }
 
 .card26-img{
-    background-image: url("../images/Rishi1.jpg");
+    background-image: url("../images/Rishi15.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -719,101 +727,11 @@
 }
 
 .card27-img{
-    background-image: url("../images/Rishi2.jpg");
+    background-image: url("../images/Rishi16.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card28{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card28-img{
-    background-image: url("../images/Rishi3.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card29{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card29-img{
-    background-image: url("../images/Rishi4.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card30{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card30-img{
-    background-image: url("../images/Rishi5.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card31{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card31-img{
-    background-image: url("../images/lyad2.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card32{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card32-img{
-    background-image: url("../images/lyad3.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
