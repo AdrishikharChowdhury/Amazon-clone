@@ -241,8 +241,10 @@
 }
 
 .card1-img{
-    background-image: url("../images/women1.webp");
-    background-size: cover;
+    background-image: url("../images/elec1.webp");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
     margin-left: 20px;
     width: 200px;
     height: 220px;
@@ -268,7 +270,6 @@
 }
 
 .rating{
-    margin-top: 10px;
     margin-left: 10px;
     font-size: 0.8rem;
 }
@@ -288,9 +289,10 @@
 }
 
 .card2-img{
-    background-image: url("../images/men1.webp");
-    background-size: cover;
+    background-image: url("../images/elec2.webp");
+    background-size: contain;
     background-position: center;
+    background-repeat: no-repeat;
     margin-left: 20px;
     width: 200px;
     height: 220px;
@@ -305,10 +307,10 @@
 }
 
 .card3-img{
-    background-image: url("../images/women2.webp");
+    background-image: url("../images/elec3.webp");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -322,10 +324,10 @@
 }
 
 .card4-img{
-    background-image: url("../images/men2.webp");
+    background-image: url("../images/elec4.webp");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 25px;
+    margin-left: 45px;
     width: 200px;
     height: 220px;
 }
@@ -339,10 +341,10 @@
 }
 
 .card5-img{
-    background-image: url("../images/women3.webp");
+    background-image: url("../images/elec5.webp");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -356,7 +358,7 @@
 }
 
 .card6-img{
-    background-image: url("../images/men4.webp");
+    background-image: url("../images/elec6.webp");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -373,7 +375,7 @@
 }
 
 .card7-img{
-    background-image: url("../images/women4.webp");
+    background-image: url("../images/elec7.webp");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -390,8 +392,9 @@
 }
 
 .card8-img{
-    background-image: url("../images/men5.webp");
+    background-image: url("../images/elec8.webp");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
     margin-left: 45px;
     width: 200px;
@@ -407,7 +410,7 @@
 }
 
 .card9-img{
-    background-image: url("../images/women5.webp");
+    background-image: url("../images/elec9.webp");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -424,10 +427,11 @@
 }
 
 .card10-img{
-    background-image: url("../images/men3.webp");
+    background-image: url("../images/elec10.webp");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -441,10 +445,11 @@
 }
 
 .card11-img{
-    background-image: url("../images/women6.webp");
+    background-image: url("../images/elec11.webp");
+    background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -458,10 +463,10 @@
 }
 
 .card12-img{
-    background-image: url("../images/men6.webp");
+    background-image: url("../images/elec12.webp");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -475,10 +480,11 @@
 }
 
 .card13-img{
-    background-image: url("../images/women7.webp");
+    background-image: url("../images/elec13.webp");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -492,7 +498,7 @@
 }
 
 .card14-img{
-    background-image: url("../images/men7.webp");
+    background-image: url("../images/elec14.webp");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -509,10 +515,11 @@
 }
 
 .card15-img{
-    background-image: url("../images/women8.webp");
+    background-image: url("../images/elec15.webp");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 15px;
     width: 200px;
     height: 220px;
 }
@@ -526,10 +533,11 @@
 }
 
 .card16-img{
-    background-image: url("../images/men8.webp");
+    background-image: url("../images/elec16.webp");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -543,7 +551,7 @@
 }
 
 .card17-img{
-    background-image: url("../images/women9.webp");
+    background-image: url("../images/elec17.webp");;
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -560,10 +568,10 @@
 }
 
 .card18-img{
-    background-image: url("../images/men9.webp");
+    background-image: url("../images/elec18.webp");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -577,7 +585,7 @@
 }
 
 .card19-img{
-    background-image: url("../images/women10.webp");
+    background-image: url("../images/elec19.webp");
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 45px;
@@ -594,10 +602,11 @@
 }
 
 .card20-img{
-    background-image: url("../images/men10.webp");
+    background-image: url("../images/elec20.webp");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 10px;
     width: 200px;
     height: 220px;
 }
@@ -611,11 +620,11 @@
 }
 
 .card21-img{
-    background-image: url("../images/sobuj3.webp");
+    background-image: url("../images/babli1.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -629,11 +638,11 @@
 }
 
 .card22-img{
-    background-image: url("../images/sobuj4.webp");
+    background-image: url("../images/debu2.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -647,11 +656,11 @@
 }
 
 .card23-img{
-    background-image: url("../images/megha3.webp");
+    background-image: url("../images/debu3.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -665,11 +674,11 @@
 }
 
 .card24-img{
-    background-image: url("../images/bokro1.webp");
+    background-image: url("../images/debu4.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -683,11 +692,11 @@
 }
 
 .card25-img{
-    background-image: url("../images/debu1.webp");
+    background-image: url("../images/megha1.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -701,11 +710,11 @@
 }
 
 .card26-img{
-    background-image: url("../images/Rishi1.jpg");
+    background-image: url("../images/Rishi8.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -719,11 +728,11 @@
 }
 
 .card27-img{
-    background-image: url("../images/Rishi2.jpg");
+    background-image: url("../images/sangram3.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -737,11 +746,11 @@
 }
 
 .card28-img{
-    background-image: url("../images/Rishi3.jpg");
+    background-image: url("../images/sangram4.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -755,11 +764,11 @@
 }
 
 .card29-img{
-    background-image: url("../images/Rishi4.jpg");
+    background-image: url("../images/sangram5.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -773,11 +782,11 @@
 }
 
 .card30-img{
-    background-image: url("../images/Rishi5.jpg");
+    background-image: url("../images/sobuj1.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 35px;
     width: 200px;
     height: 220px;
 }
@@ -791,11 +800,11 @@
 }
 
 .card31-img{
-    background-image: url("../images/lyad2.jpg");
+    background-image: url("../images/sobuj2.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -809,29 +818,11 @@
 }
 
 .card32-img{
-    background-image: url("../images/lyad3.jpg");
+    background-image: url("../images/bkl1.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
-    width: 200px;
-    height: 220px;
-}
-
-.card33{
-    border-radius: 5px;
-    width: 250px;
-    height: 400px;
-    background-color: #fffdfd;
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-}
-
-.card33-img{
-    background-image: url("../images/sobuj5.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
