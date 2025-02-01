@@ -24,6 +24,7 @@
 
 .logo {
     background-image: url("../images/amazon_logo.png");
+    background-position: center;
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -221,6 +222,7 @@
 
 .hero-msg{
     background-color: #f5f6f6;
+    opacity: 0.8;
     color: black;
     height: 40px;
     display: flex;
@@ -245,7 +247,7 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #e2e7e6;
-    pad: 20px 0px;
+    padding: 20px 0px;
 }
 
 .box{
