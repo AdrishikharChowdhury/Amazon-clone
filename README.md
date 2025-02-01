@@ -5,7 +5,7 @@ This is a **fully responsive** Amazon clone built using **HTML and CSS**. It rep
 
 ## **Features**
 - **Home Page:** Displays a dynamic hero section with sliding images and featured product listings.
-- **Category Pages:** Dedicated pages for **Clothes**, **Health & Personal Care**, and **Furniture**, each showcasing products in a structured grid layout.
+- **Category Pages:** Dedicated pages for **Clothes**, **Health & Personal Care**, **Furniture**, **Beauty**, and **Electronics**, each showcasing products in a structured grid layout.
 - **Search Bar with Dropdown:** Allows users to search through various categories.
 - **Navigation Bar:** Fully responsive navbar with search functionality and account-related options.
 - **Footer Section:** Includes important links, policies, and Amazon-style branding.
@@ -23,10 +23,14 @@ Amazon-Clone/
 │── clothes.html                   # Clothes Category Page
 │── health-and-personal-care.html  # Health & Personal Care Page
 │── furnitures.html                 # Furniture Category Page
+│── beauty.html                     # Beauty Category Page
+│── electronics.html                 # Electronics Category Page
 │── assets/
 │   ├── css/
 │   │   ├── style.css              # Main Stylesheet
 │   │   ├── furniturestyle.css      # Furniture Page Stylesheet
+│   │   ├── beautystyle.css         # Beauty Page Stylesheet
+│   │   ├── electronicstyle.css     # Electronics Page Stylesheet
 │   ├── images/                     # Contains website images
 ```
 
@@ -39,3 +43,10 @@ Amazon-Clone/
 
 ## **License**
 This project is for **educational purposes** only and does not intend to infringe on Amazon's trademarks or branding.
+
+---
+
+### **Changes & Additions**
+1. **Added Beauty & Electronics pages** to the category list.
+2. **Updated file structure** to include `beauty.html`, `electronics.html`, and their respective stylesheets.
+3. **Ensured consistency** with existing category pages.
