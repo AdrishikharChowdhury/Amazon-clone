@@ -14,8 +14,9 @@ This is a **fully responsive** Amazon clone built using **HTML and CSS**. It rep
   - **Beauty**
   - **Electronics**
   - **Pet Care**
-  - **Toys** (New)
-  - **Bags** (New)
+  - **Toys**
+  - **Bags**
+  - **Gaming Merchandise** *(New)*
 - **Search Bar with Dropdown**: Allows users to search through various categories.
 - **Navigation Bar**: Fully responsive navbar with search functionality and account-related options.
 - **Footer Section**: Includes important links, policies, and Amazon-style branding.
@@ -26,7 +27,7 @@ This is a **fully responsive** Amazon clone built using **HTML and CSS**. It rep
 ## **Technology Stack**
 - **HTML5**
 - **CSS3**
-- **Font Awesome (for icons)**
+- **Font Awesome** (for icons)
 
 ---
 
@@ -34,31 +35,33 @@ This is a **fully responsive** Amazon clone built using **HTML and CSS**. It rep
 ```
 Amazon-Clone/
 │── index.html                        # Home Page
-│── clothes.html                       # Clothes Category Page
-│── health-and-personal-care.html      # Health & Personal Care Category Page
-│── furnitures.html                     # Furniture Category Page
-│── beauty.html                         # Beauty Category Page
-│── electronics.html                     # Electronics Category Page
-│── petcare.html                         # Pet Care Category Page
-│── toy.html                             # Toys Category Page (New)
-│── bag.html                             # Bags Category Page (New)
+│── clothes.html                      # Clothes Category Page
+│── health-and-personal-care.html     # Health & Personal Care Category Page
+│── furnitures.html                   # Furniture Category Page
+│── beauty.html                       # Beauty Category Page
+│── electronics.html                  # Electronics Category Page
+│── petcare.html                      # Pet Care Category Page
+│── toy.html                          # Toys Category Page
+│── bag.html                          # Bags Category Page
+│── merch.html                        # Gaming Merchandise Page (New)
 │
-├── assets/                             # Static Assets Directory
-│   ├── css/                            # Stylesheets
-│   │   ├── style.css                    # Main Stylesheet
-│   │   ├── clothes.css                   # Clothes Page Stylesheet
-│   │   ├── health.css                    # Health & Personal Care Page Stylesheet
-│   │   ├── furniture.css                 # Furniture Page Stylesheet
-│   │   ├── beauty.css                     # Beauty Page Stylesheet
-│   │   ├── electronics.css                # Electronics Page Stylesheet
-│   │   ├── petcare.css                    # Pet Care Page Stylesheet
-│   │   ├── toy.css                        # Toys Page Stylesheet (New)
-│   │   ├── bag.css                        # Bags Page Stylesheet (New)
+├── assets/                           # Static Assets Directory
+│   ├── css/                          # Stylesheets
+│   │   ├── style.css                 # Main Stylesheet
+│   │   ├── clothes.css               # Clothes Page Stylesheet
+│   │   ├── health.css                # Health & Personal Care Stylesheet
+│   │   ├── furniture.css             # Furniture Page Stylesheet
+│   │   ├── beauty.css                # Beauty Page Stylesheet
+│   │   ├── electronics.css           # Electronics Page Stylesheet
+│   │   ├── petcare.css               # Pet Care Page Stylesheet
+│   │   ├── toy.css                   # Toys Page Stylesheet
+│   │   ├── bag.css                   # Bags Page Stylesheet
+│   │   ├── merchstyle.css            # Gaming Merchandise Stylesheet (New)
 │   │
-│   ├── images/                           # Image Files for the Website
-│   ├── fonts/                            # Fonts (if any)
+│   ├── images/                       # Image Files for the Website
+│   ├── fonts/                        # Fonts (if any)
 │
-├── README.md                             # Project Documentation
+├── README.md                         # Project Documentation
 ```
 
 ---
@@ -72,7 +75,7 @@ Amazon-Clone/
    ```sh
    cd amazon-clone
    ```
-3. **Open `index.html` in a browser** to view the project.
+3. **Open `index.html` in your browser** to view the project.
 
 ---
 
@@ -84,7 +87,8 @@ This project is for **educational purposes** only and does not intend to infring
 ### **Recent Updates**
 ✅ **Added `toy.html` for the Toys category.**  
 ✅ **Added `bag.html` for the Bags category.**  
-✅ **Updated the file structure to include `toy.css` and `bag.css`.**  
-✅ **Ensured consistency across all category pages.**  
+✅ **Added `merch.html` for Gaming Merchandise.**  
+✅ **Included `merchstyle.css` to style the Gaming Merchandise page.**  
+✅ **Updated file structure to reflect new categories and styles.**
 
 ---
