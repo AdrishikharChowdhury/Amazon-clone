@@ -16,7 +16,8 @@ This is a **fully responsive** Amazon clone built using **HTML and CSS**. It rep
   - **Pet Care**
   - **Toys**
   - **Bags**
-  - **Gaming Merchandise** *(New)*
+  - **Gaming Merchandise**
+  - **Gaming** *(New)*
 - **Search Bar with Dropdown**: Allows users to search through various categories.
 - **Navigation Bar**: Fully responsive navbar with search functionality and account-related options.
 - **Footer Section**: Includes important links, policies, and Amazon-style branding.
@@ -43,7 +44,8 @@ Amazon-Clone/
 │── petcare.html                      # Pet Care Category Page
 │── toy.html                          # Toys Category Page
 │── bag.html                          # Bags Category Page
-│── merch.html                        # Gaming Merchandise Page (New)
+│── merch.html                        # Gaming Merchandise Page
+│── game.html                         # Gaming Page (New)
 │
 ├── assets/                           # Static Assets Directory
 │   ├── css/                          # Stylesheets
@@ -56,11 +58,9 @@ Amazon-Clone/
 │   │   ├── petcare.css               # Pet Care Page Stylesheet
 │   │   ├── toy.css                   # Toys Page Stylesheet
 │   │   ├── bag.css                   # Bags Page Stylesheet
-│   │   ├── merchstyle.css            # Gaming Merchandise Stylesheet (New)
-│   │
-│   ├── images/                       # Image Files for the Website
-│   ├── fonts/                        # Fonts (if any)
-│
+│   │   ├── merchstyle.css            # Gaming Merchandise Stylesheet
+│   │   ├── gamestyle.css             # Gaming Page Stylesheet (New)
+│   │   ├── mobilepages.css           # Styles for Mobile 
 ├── README.md                         # Project Documentation
 ```
 
@@ -88,7 +88,9 @@ This project is for **educational purposes** only and does not intend to infring
 ✅ **Added `toy.html` for the Toys category.**  
 ✅ **Added `bag.html` for the Bags category.**  
 ✅ **Added `merch.html` for Gaming Merchandise.**  
-✅ **Included `merchstyle.css` to style the Gaming Merchandise page.**  
+✅ **Added `game.html` for Gaming page.**  
+✅ **Included `gamestyle.css` to style the Gaming page.**  
+✅ **Made the website fully responsive for mobile devices (`mobilepages.css`).**  
 ✅ **Updated file structure to reflect new categories and styles.**
 
 ---

@@ -241,7 +241,7 @@
 }
 
 .card1-img{
-    background-image: url("../images/bag1.jpg");
+    background-image: url("../images/game1.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -289,11 +289,11 @@
 }
 
 .card2-img{
-    background-image: url("../images/bag2.jpg");
+    background-image: url("../images/game2.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 25px;
+    margin-left: 10px;
     width: 200px;
     height: 220px;
 }
@@ -307,11 +307,11 @@
 }
 
 .card3-img{
-    background-image: url("../images/bag3.jpg");
+    background-image: url("../images/game3.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 10px;
+    margin-left: 20px;
     width: 200px;
     height: 220px;
 }
@@ -325,11 +325,11 @@
 }
 
 .card4-img{
-    background-image: url("../images/bag4.jpg");
+    background-image: url("../images/game4.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 25px;
+    margin-left: 15px;
     width: 200px;
     height: 220px;
 }
@@ -343,11 +343,11 @@
 }
 
 .card5-img{
-    background-image: url("../images/bag5.jpg");
+    background-image: url("../images/game5.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 25px;
+    margin-left: 10px;
     width: 200px;
     height: 220px;
 }
@@ -361,7 +361,7 @@
 }
 
 .card6-img{
-    background-image: url("../images/bag6.jpg");
+    background-image: url("../images/game6.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -379,11 +379,11 @@
 }
 
 .card7-img{
-    background-image: url("../images/bag7.jpg");
+    background-image: url("../images/game7.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -397,7 +397,7 @@
 }
 
 .card8-img{
-    background-image: url("../images/bag8.jpg");
+    background-image: url("../images/game8.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -415,10 +415,11 @@
 }
 
 .card9-img{
-    background-image: url("../images/bag9.jpg");
+    background-image: url("../images/game9.jpg");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
-    margin-left: 45px;
+    margin-left: 25px;
     width: 200px;
     height: 220px;
 }
@@ -432,7 +433,7 @@
 }
 
 .card10-img{
-    background-image: url("../images/bag10.jpg");
+    background-image: url("../images/game10.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -450,7 +451,7 @@
 }
 
 .card11-img{
-    background-image: url("../images/bag11.jpg");
+    background-image: url("../images/game11.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -468,8 +469,9 @@
 }
 
 .card12-img{
-    background-image: url("../images/bag12.jpg");
+    background-image: url("../images/game12.jpg");
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
     margin-left: 25px;
     width: 200px;
@@ -485,7 +487,7 @@
 }
 
 .card13-img{
-    background-image: url("../images/bag13.jpg");
+    background-image: url("../images/game13.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -503,7 +505,7 @@
 }
 
 .card14-img{
-    background-image: url("../images/bag14.jpg");
+    background-image: url("../images/game14.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -521,11 +523,11 @@
 }
 
 .card15-img{
-    background-image: url("../images/bag15.jpg");
+    background-image: url("../images/game15.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 15px;
+    margin-left: 20px;
     width: 200px;
     height: 220px;
 }
@@ -539,7 +541,7 @@
 }
 
 .card16-img{
-    background-image: url("../images/bag16.jpg");
+    background-image: url("../images/game16.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -557,7 +559,7 @@
 }
 
 .card17-img{
-    background-image: url("../images/bag17.jpg");
+    background-image: url("../images/game17.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -575,7 +577,7 @@
 }
 
 .card18-img{
-    background-image: url("../images/bag18.jpg");
+    background-image: url("../images/game18.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -593,7 +595,7 @@
 }
 
 .card19-img{
-    background-image: url("../images/bag19.jpg");
+    background-image: url("../images/game19.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -611,7 +613,7 @@
 }
 
 .card20-img{
-    background-image: url("../images/bag20.jpg");
+    background-image: url("../images/game20.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -629,7 +631,7 @@
 }
 
 .card21-img{
-    background-image: url("../images/lyad1.jpg");
+    background-image: url("../images/sangram1.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -647,7 +649,7 @@
 }
 
 .card22-img{
-    background-image: url("../images/megha2.jpg");
+    background-image: url("../images/sangram2.webp");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;

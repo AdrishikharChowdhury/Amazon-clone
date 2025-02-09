@@ -656,6 +656,12 @@
     height: 220px;
 }
 
+marquee{
+    color: #c45500; 
+    font-size: 0.85rem; 
+    margin-top: 5px;
+}
+
 /* footer */
 
 .signin-box{
